@@ -1,5 +1,5 @@
-### Hi there 👋....I am Debanjana Mandal.
-
+### Hi there 👋....I am Debanjana Mandal.Welcome to my GitHub💻❤️
+ 📫debanjanasouptika@gmail.com
 <!--
 **Debanjana27/Debanjana27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
